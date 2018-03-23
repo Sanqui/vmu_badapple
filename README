@@ -1,0 +1,11 @@
+Unfinished Bad Apple demo for the Dreamcast VMU.
+
+Contains a fully functional compressed video.  The framerate
+could be higher, but the VMU only gives us 100KB to work with.
+Some space was reserved for sound, which never came.
+
+The compression algorithm is nifty.  
+See badapple/1bpp_compress.py for a description.
+
+I'd love to see this done!  Feel free to poke me if you want
+to pick this up.
